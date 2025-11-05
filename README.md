@@ -1,2 +1,2 @@
 # hello-world
-"Este repositorio es para practicar el flujo de GitHub".
+Hola soy david y tengo 19 años, me gusta mucho el fútbol y tengo una hermana. Vivo en móstoles
